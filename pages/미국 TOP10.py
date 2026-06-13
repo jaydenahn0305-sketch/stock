@@ -1,4 +1,4 @@
-if page == "미국 TOP10":
+"미국 TOP10":
 
     st.title("🚀 미국 대표 주식 TOP 10")
 
